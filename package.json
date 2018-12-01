@@ -1,0 +1,17 @@
+{
+  "name": "nuxtdynamiclayout",
+  "version": "1.0.0",
+  "description": "Dynamic layout reproduction repo in nuxt generate",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nuxt",
+    "generate": "nuxt generate",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sumesh kumar M P",
+  "license": "ISC",
+  "dependencies": {
+    "mobile-detect": "^1.4.3",
+    "nuxt": "^2.3.4"
+  }
+}
