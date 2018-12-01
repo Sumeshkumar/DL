@@ -1,4 +1,4 @@
-# Dynamic Layout - nuxt generate (Pre-render) issue reproduction repo
+# Dynamic Layout - nuxt generate (Pre-render) issue
 
 Run `npm run generate`
 
