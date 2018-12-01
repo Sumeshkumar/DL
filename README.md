@@ -10,8 +10,8 @@ https://nuxtjs.org/guide/installation
 Note: The deployment is nuxt generate (pre-render)
 
 Observation: 
-- Loading desktop layout on mobile view on page refresh
-- Desktop component loading first then mobile component is loading on page refresh
+- Desktop layout is loading on mobile view on page refresh
+- Desktop component is loading first then mobile component on page refresh
 
 Expected behaviour:
 
